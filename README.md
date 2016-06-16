@@ -8,11 +8,11 @@ $ mvn package exec:exec
 
 ## Table of contents ##
 
-- [Output](#markdown-header-output)
-- [Custom Runtime Config](#markdown-header-custom-runtime-config)
-- [Unit Tests](#markdown-header-unit-tests)
-- [Eclipse](#markdown-header-eclipse)
-- [Technical Details](#markdown-header-technical-details)
+- [Output](#output)
+- [Custom Runtime Config](#custom-runtime-config)
+- [Unit Tests](#unit-tests)
+- [Eclipse](#eclipse)
+- [Technical Details](#technical-details)
 
 ---
 
@@ -87,5 +87,5 @@ jdk version: 1.7
 
 Dependencies:
 
-- Maven
+- Maven 3.3.9
 - JUnit 4.11
